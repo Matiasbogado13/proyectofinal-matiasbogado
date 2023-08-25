@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nombre": "Zapatillas Convers", "precio": 15 },
+    { "id": 2, "nombre": "Zapatillas Nike", "precio": 10 },
+    { "id": 3, "nombre": "Zapatillas New Balance", "precio": 15 },
+    { "id": 4, "nombre": "Zap Adidas", "precio": 15 }
+]
